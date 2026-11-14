@@ -1,0 +1,19 @@
+# Working files and private event materials
+.DS_Store
+._*
+.env
+.env.*
+.venv/
+work/
+outputs/
+tests/fixtures_private/
+models/
+*.avi
+*.Avi
+*.AVI
+*.mp4
+*.mov
+*.sqlite
+*.parquet
+__pycache__/
+private/
